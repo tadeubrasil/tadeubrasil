@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-tadeubrasil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeubrasil/)](https://www.linkedin.com/in/tadeubrasil/)
+[![Website Badge](https://img.shields.io/badge/-tadeubrasil.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tadeubrasil.com.br)](https://tadeubrasil.com.br)
+[![Twitter Badge](https://img.shields.io/badge/-@tadeubrasil-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tadeubrasil)](https://twitter.com/tadeubrasil)
+[![Instagram Badge](https://img.shields.io/badge/-@tadeubrasil-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/tadeubrasil/)](https://instagram.com/tadeubrasil)
+[![Gmail Badge](https://img.shields.io/badge/-tadeubrasil-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tadeubrasill@gmail.com)](mailto:tadeubrasill@gmail.com)
+
 <!--
 **tadeubrasil/tadeubrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tadeubrasil&show_icons=true&theme=gotham" alt="tadeubrasil" />
+-- >
