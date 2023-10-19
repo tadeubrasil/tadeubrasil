@@ -6,21 +6,24 @@
 
 ### Olá 👋 🇧🇷
 
-```diff
+
 Muito Prazer, sou Tadeu Brasil, programador front-end e especialista em WordPress com 10+ anos de experiência. Dedico-me ao desenvolvimento, manutenção e otimização de sites e lojas online, com foco em WordPress e WooCommerce. Crio temas, plugins e integrações com API para proporcionar soluções web excepcionais.
-```
+
 
 ---
 
 ### Hello! 👋 🇺🇸
-```diff
+
 I'm Tadeu Brasil, a front-end developer and WordPress specialist with 10+ years of experience. I'm dedicated to developing, maintaining and optimizing websites and online stores, with a focus on WordPress and WooCommerce. I create themes, plugins and API integrations to provide exceptional web solutions.
-```
+
 
 CODE IS POETRY!
 
 ### Meu Plugin 
-[![Wordpress Badge](https://img.shields.io/badge/-plugin-c14438?style=flat&logo=Wordpress&logoColor=white&link=https://wordpress.org/plugins/swiftload/)](https://wordpress.org/plugins/swiftload/)
+
+Show a preloader while your website's page is loading all components!
+
+[![Wordpress Badge](https://img.shields.io/badge/-SwiftLoad-c14438?style=flat&logo=Wordpress&logoColor=white&link=https://wordpress.org/plugins/swiftload/)](https://wordpress.org/plugins/swiftload/)
 
 
 ### 🛠 **My Tools:**
