@@ -47,7 +47,4 @@ Show a preloader while your website's page is loading all components!
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tadeubrasil&show_icons=true&theme=dark&locale=en" alt="tadeubrasil" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tadeubrasil&theme=dark" alt="tadeubrasil" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tadeubrasil&show_icons=true&theme=dark&locale=en&layout=compact" alt="tadeubrasil" /> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
 </details><br><br>
