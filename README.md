@@ -1,4 +1,4 @@
-![Linkedin Badge](https://img.shields.io/badge/-tadeubrasil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeubrasil/)](https://www.linkedin.com/in/tadeubrasil/)
+[![Linkedin Badge](https://img.shields.io/badge/-tadeubrasil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tadeubrasil/)](https://www.linkedin.com/in/tadeubrasil/)
 [![Website Badge](https://img.shields.io/badge/-tadeubrasil.com.nr-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tadeubrasil.com.br)](https://tadeubrasil.com.br)
 [![Twitter Badge](https://img.shields.io/badge/-@tadeubrasil-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tadeubrasil)](https://twitter.com/tadeubrasil)
 [![Instagram Badge](https://img.shields.io/badge/-@tadeubrasil-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/tadeubrasil/)](https://instagram.com/tadeubrasil)
@@ -17,11 +17,10 @@ Muito Prazer, sou Tadeu Brasil, programador front-end e especialista em WordPres
 I'm Tadeu Brasil, a front-end developer and WordPress specialist with 10+ years of experience. I'm dedicated to developing, maintaining and optimizing websites and online stores, with a focus on WordPress and WooCommerce. I create themes, plugins and API integrations to provide exceptional web solutions.
 
 
-CODE IS POETRY!
+💡 CODE IS POETRY!
 
 ### Meu Plugin 
-
-[![Wordpress Badge](https://img.shields.io/badge/-SwiftLoad-c14438?style=flat&logo=Wordpress&logoColor=white&link=https://wordpress.org/plugins/swiftload/)](https://wordpress.org/plugins/swiftload/) - Show a preloader while your website's page is loading all components!
+[Swift Load]([https://dev.to/ocodista](https://wordpress.org/plugins/swiftload)) - Show a preloader while your website's page is loading all components!
 
 ### 🛠 **My Tools:**
 
